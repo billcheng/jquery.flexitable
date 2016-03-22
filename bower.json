@@ -1,0 +1,30 @@
+{
+  "name": "jquery.flexitable",
+  "description": "JQuery Flexible Table",
+  "main": "src/jquery.flexitable.js",
+  "authors": [
+    "Bill Cheng"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "jquery",
+    "flexible",
+    "table",
+    "grid"
+  ],
+  "moduleType": [
+    "es6"
+  ],
+  "dependencies": {
+      "jquery": ">=2.1.3",
+      "jquery-ui-sortable": ">=1.11.4"
+  },
+  "homepage": "https://github.com/billcheng/jquery.flexitable",
+  "ignore": [
+    "**/.*",
+    ".vscode",
+    "node_modules",
+    "bower_components",
+    "ts-referneces"
+  ]
+}

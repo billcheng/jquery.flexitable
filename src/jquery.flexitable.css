@@ -1,0 +1,61 @@
+﻿table.dragFlexitable td.columns,
+table.dragFlexitable td.rows {
+	border: 1px solid lightblue;
+	padding: 5px;
+}
+
+table.dragFlexitable td.rows {
+	vertical-align: top;
+}
+
+table.dragFlexitable td.fields {
+	border: 1px solid lightgreen;
+	padding: 5px;
+}
+
+	table.dragFlexitable td.columns li.field,
+	table.dragFlexitable td.fields li.field {
+		display: inline;
+	}
+
+table.dragFlexitable ul.sortableField {
+	margin: 0;
+	padding: 5px 0;
+	background-color: #fffcea;
+}
+
+table.dragFlexitable td.rows > ul.sortableField {
+	min-width: 50px;
+	min-height: 50px;
+}
+
+table.dragFlexitable li {
+	border: 1px solid #fcefa1;
+	text-align: center;
+	list-style-type: none;
+	background-color: #fbf9ee;
+	padding: 3px;
+	margin: 5px;
+	border-radius: 4px;
+	cursor: default;
+}
+
+table.flexitable,
+table.flexitable > tbody > tr > td {
+	border: 1px solid lightblue;
+	border-collapse: collapse;
+}
+
+	table.flexitable > tbody > tr > td.colHeader,
+	table.flexitable > tbody > tr > td.rowHeader,
+	table.flexitable > tbody > tr > td.cell {
+		padding: 5px;
+	}
+
+	table.flexitable > tbody > tr > td.colHeader,
+	table.flexitable > tbody > tr > td.cell {
+		text-align: center;
+	}
+
+	table.flexitable > tbody > tr > td.island {
+	}

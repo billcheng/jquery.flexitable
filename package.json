@@ -1,0 +1,32 @@
+{
+    "name": "jquery.flexitable",
+    "version": "1.0.0",
+    "description": "JQuery Flexible Table",
+    "main": "src/jquery.flexitable.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+        "gulp": "^3.9.1",
+        "gulp-cssmin": "^0.1.7",
+        "gulp-uglify": "^1.5.3",
+        "gulp-rename": "^1.2.2",
+        "gulp-concat": "^2.6.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/billcheng/jquery.flexitable.git"
+    },
+    "keywords": [
+        "jquery",
+        "flexible",
+        "table",
+        "grid"
+    ],
+    "author": "Bill Cheng",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/billcheng/jquery.flexitable/issues"
+    },
+    "homepage": "https://github.com/billcheng/jquery.flexitable"
+}
