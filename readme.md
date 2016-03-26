@@ -1,5 +1,5 @@
 # jquery.flexitable
-<a href="https://jsfiddle.net/cccheng118/ypkkxgj0/">Demo</a>
+<a href="http://plnkr.co/edit/kXl8W5">Demo</a>
 
 # Bower
 ```code
